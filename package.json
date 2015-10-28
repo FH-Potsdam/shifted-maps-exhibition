@@ -1,0 +1,12 @@
+{
+  "name": "shifted-maps-exhibition",
+  "version": "0.0.1",
+  "main": "index.htm",
+  "kiosk": {
+    "src": "http://shifted-maps.com"
+  },
+  "window": {
+    "toolbar": false,
+    "fullscreen": true
+  }
+}

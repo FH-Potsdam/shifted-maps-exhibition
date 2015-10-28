@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shifted Maps</title>
+    <link href="./kiosk.css" rel="stylesheet" />
+</head>
+<body>
+<script>
+    var kiosk = document.createElement('iframe'),
+        config = require('./package.json');
+
+    kiosk.className = 'kiosk';
+    kiosk.src = config.kiosk.src;
+
+    document.body.appendChild(kiosk);
+</script>
+</body>
+</html>
