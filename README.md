@@ -1,4 +1,4 @@
-# Shifted Maps Exhibition Kisok
+# Shifted Maps Exhibition Kiosk
 
 This is a [nw.js](http://nwjs.io/) wrapper for the Shifted Maps project to be used in the coming exhibition [Streams & Traces](http://streamsandtraces.com/) and others.
 
