@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.htm",
   "kiosk": {
-    "src": "http://shifted-maps.com"
+    "src": "http://shifted-maps.com/?exhibition"
   },
   "window": {
     "toolbar": false,
